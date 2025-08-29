@@ -47,8 +47,6 @@ jobs:
        name: Test Reports
        path: Report.html
 
-    - name: test execution status
-      run: echo "Test Execution completed"
 
 
   
