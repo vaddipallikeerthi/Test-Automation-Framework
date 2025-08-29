@@ -121,5 +121,5 @@ This project includes a workflow (`.github/workflows/ci.yml`) to run tests on ev
 
 ---
 
-👉 Do you also want me to create a **sample `mvn` command list (like a cheatsheet)** inside the README so users can quickly copy-paste and run?
-```
+
+
